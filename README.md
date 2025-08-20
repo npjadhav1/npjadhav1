@@ -3,8 +3,6 @@
 🚀 Aspiring Data Scientist | 💻 Java Full-Stack Developer | Data Analyst |📊 Power BI Developer  
 📍 Pune, Maharashtra, India  
 
-<img align="right" alt="Coding Girl" width="400" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
-
 ---
 
 ### 🧑‍🎓 Education
@@ -22,8 +20,6 @@
 - **Data Tools:** Power BI, MySQL, Excel
 ---
 
-### 📊 GitHub Stats  
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" align="right">  
+### 📊 GitHub Stats   
 
 ![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikita-jadhav&show_icons=true&theme=tokyonight)  
