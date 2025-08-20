@@ -3,6 +3,8 @@
 🚀 Aspiring Data Scientist | 💻 Java Full-Stack Developer | Data Analyst |📊 Power BI Developer  
 📍 Pune, Maharashtra, India  
 
+<img align="right" alt="Coding Girl" width="400" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+
 ---
 
 ### 🧑‍🎓 Education
